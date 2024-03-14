@@ -1,23 +1,47 @@
 ### > Olá sou a Aritana! 👋
 
+<br>
 
+- 👩‍💻 Desenvolvedora web - Analista de sistemas
+- 🌙 Gosto de Músicas - Filmes - Noite - Chuva - Desenhar
+- 😊 Pronouns: ela/dela
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aritana-pianco/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_aripianco/)
+<br>
+<br>
 
-![Ari GitHub stats](https://github-readme-stats.vercel.app/api?username=AritanaPianco&show_icons=true&theme=highcontrast)
+<div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AritanaPianco&show_icons=true&theme=algolia"/>
+<img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AritanaPianco&layout=compact&langs_count=16&theme=algolia"/>
+</div>
+ 
+<br>
 
-### > Tecnologias que uso: 
+### > Tecnologias que mais gosto
 
-<div style="display: inline_block"><br/>
-   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-   <img align="center" alt="javasript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-   <img align="center" alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-   <img align="center" alt="node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-   <img align="center" alt="tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-   <img align="center" alt="bootstarp" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-</div><br/><br/>
+<div style="display: inline_block"><br>  
+   <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />        
+   <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+   <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
+   <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+   <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
+   <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+   <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+   <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+   <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />                          
+</div>
+
+<br>
+
+### > Contatos
+
+<br>
+<div>
+   <a href="https://www.linkedin.com/in/aritana-pianco/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   <a href="https://www.instagram.com/_aripianco/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+   <a href = "aritanapianco10@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+
+<br>
 
 Uma pessoa muito criativa e adépta a projetos de software, como do desenvolvimento de prototypes de sites até suas funcionalidades. É muito satisfatório fazer parte desse mundo da tecnologia.
 
