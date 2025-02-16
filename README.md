@@ -1,8 +1,8 @@
-### > Olá sou a Aritana! 👋
+### > Hey! sou a Aritana! 👋
 
 <br>
 
-- 👩‍💻 Desenvolvedora de software - Analista de sistemas
+- 👩‍💻 Fullstack Developer
 
 <br>
 <div>
@@ -12,7 +12,7 @@
 
 <br>
 
-### > Tecnologias que mais gosto
+### > Tecnologias que uso
 
 <div style="display: inline_block">  
    <img align="center" height="33" width="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />       
@@ -37,6 +37,6 @@
 
 <br>
 
-Uma pessoa muito criativa e adépta a projetos de software, como do desenvolvimento de prototypes de sites até suas funcionalidades. É muito satisfatório fazer parte desse mundo da tecnologia.
+Adépta a projetos de software.
 
 ### Constância sempre! 🧠
