@@ -3,11 +3,10 @@
 <br>
 
 - 👩‍💻 Fullstack Developer
-
 <br>
 <div>
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=AritanaPianco&show_icons=true&theme=midnight-purple"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AritanaPianco&layout=compact&langs_count=16&theme=midnight-purple"/>
+<img height="190em" src="https://github-readme-stats.vercel.app/api?username=AritanaPianco&show_icons=true&theme=midnight-purple"/>
+<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AritanaPianco&layout=compact&langs_count=16&theme=midnight-purple"/>
 </div>
 
 <br>
@@ -15,14 +14,14 @@
 ### > Tecnologias que uso
 
 <div style="display: inline_block">  
-   <img align="center" height="33" width="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />       
-   <img align="center" height="33" width="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-   <img align="center" height="33" width="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-   <img align="center" height="33" width="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-   <img align="center" height="33" width="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
-   <img align="center" height="33" width="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-   <img align="center" height="33" width="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
-   <img align="center" height="33" width="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" />                      
+   <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />       
+   <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+   <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+   <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+   <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+   <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+   <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
+   <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" />                      
 </div>
 
 <br>
