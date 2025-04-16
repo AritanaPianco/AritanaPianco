@@ -1,7 +1,5 @@
 ### > Hey! sou a Aritana! 👋
 
-<br>
-
 - 👩‍💻 Fullstack Developer
 <br>
 <div>
