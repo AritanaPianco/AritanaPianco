@@ -1,15 +1,9 @@
-### > Hey! sou a Aritana! 👋
+### > Hey! I'm Aritana!! 👋
 
 - 👩‍💻 Fullstack Developer
-<br>
-<div>
-<img height="190em" src="https://github-readme-stats.vercel.app/api?username=AritanaPianco&show_icons=true&theme=midnight-purple"/>
-<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AritanaPianco&layout=compact&langs_count=16&theme=midnight-purple"/>
-</div>
 
-<br>
+### > Technologies I use
 
-### > Tecnologias que uso
 
 <div style="display: inline_block">  
    <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />       
@@ -22,9 +16,7 @@
    <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" />                      
 </div>
 
-<br>
-
-### > Contatos
+### > Contacts
 
 <div>
    <a href="https://www.linkedin.com/in/aritana-pianco/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -34,6 +26,14 @@
 
 <br>
 
-Adépta a projetos de software.
+<div>
+<img height="190em" src="https://github-readme-stats.vercel.app/api?username=AritanaPianco&show_icons=true&theme=midnight-purple"/>
+<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AritanaPianco&layout=compact&langs_count=8&theme=midnight-purple"/>
+</div>
 
-### Constância sempre! 🧠
+
+<br>
+
+Suitable for software projects.
+
+### Always constancy! 🧠
