@@ -19,9 +19,9 @@
 ### > Contacts
 
 <div>
-   <a href="https://www.linkedin.com/in/aritana-pianco/" target="_blank" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="30px"/></a>
-   <a href="https://www.instagram.com/_aripianco/" target="_blank" ><img  src="https://github.com/user-attachments/assets/feaf5c81-8890-4ebb-b376-974b1ffec38d" width="30px"  /></a> 
-   <a href="mailto:aritanapianco10@gmail.com"><img src="https://github.com/user-attachments/assets/abb8e402-80b1-43d2-a157-5a3d996c1d8f" width="30px" /></a>
+   <a href="https://www.linkedin.com/in/aritana-pianco/" target="_blank" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="25px"/></a>
+   <a href="https://www.instagram.com/_aripianco/" target="_blank" ><img  src="https://github.com/user-attachments/assets/feaf5c81-8890-4ebb-b376-974b1ffec38d" width="25px"  /></a> 
+   <a href="mailto:aritanapianco10@gmail.com"><img src="https://github.com/user-attachments/assets/abb8e402-80b1-43d2-a157-5a3d996c1d8f" width="25px" /></a>
 </div>
 
 
