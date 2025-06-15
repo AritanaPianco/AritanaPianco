@@ -1,8 +1,4 @@
-<div align="center">
-
-### > Hey! I'm Aritana!! 👋
-
-👩‍💻 Fullstack Developer
+- 👩‍💻 Fullstack Developer
 
 ### > Technologies I use
 
@@ -34,8 +30,9 @@
 <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AritanaPianco&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
+
 <br>
 
-### Always constancy! 🧠
+Suitable for software projects.
 
-</div>
+### Always constancy! 🧠
