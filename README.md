@@ -4,7 +4,8 @@
 
 
 #### > Tecnologias que utilizo
-<div>  
+
+ <div>  
    <img align="center" height="30" width="30"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />       
    <img align="center" height="30" width="30"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
    <img align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
@@ -27,7 +28,7 @@
 <br>
 
 <div>
-<img align="center" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AritanaPianco&layout=donut&langs_count=8&theme=tokyonight"/>
+<img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AritanaPianco&layout=donut&langs_count=8&theme=tokyonight"/>
 </div>
 
 <br>
