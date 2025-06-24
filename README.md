@@ -27,7 +27,7 @@
 <br>
 
 <div>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AritanaPianco&layout=donut&langs_count=8&theme=tokyonight"/>
+<img align="center" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AritanaPianco&layout=donut&langs_count=8&theme=tokyonight"/>
 </div>
 
 <br>
