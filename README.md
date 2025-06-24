@@ -1,8 +1,7 @@
-- 👩‍💻 Coding
-- 🎧 Vibing
-- 🍃 Breathing
+- 👩‍💻 ``Coding``
+- 🎧 ``Vibing``
+- 🍃 ``Breathing``
 
-<hr>
 
 #### > Tecnologias que utilizo
 <div>  
@@ -37,4 +36,4 @@
 - Transformar ideias em soluções funcionais.
 - Com foco em qualidade, consistência e aprendizado contínuo
 
-### Always constancy! 🧠
+### ``Always constancy! 🧠``
