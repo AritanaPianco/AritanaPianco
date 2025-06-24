@@ -2,7 +2,7 @@
 - 🎧 Vibing
 - 🍃 Breathing
 
-<br>
+<hr>
 
 #### > Tecnologias que utilizo
 <div>  
