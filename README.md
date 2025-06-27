@@ -43,7 +43,7 @@
 <div>
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AritanaPianco&layout=compact&langs_count=8&theme=codeSTACKr"/>
  -
- <img  src="https://github-readme-stats.vercel.app/api?username=AritanaPianco&show_icons=true&theme=codeSTACKr" /> 
+ <img align="top" src="https://github-readme-stats.vercel.app/api?username=AritanaPianco&show_icons=true&theme=codeSTACKr" /> 
 </div>
 
 <br>
