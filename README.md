@@ -11,7 +11,7 @@
 
 
 
-#### > Contato
+#### ``Contato:``
 <div>
    <a href="https://www.linkedin.com/in/aritana-pianco/" target="_blank" ><img  height="25" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
    <a href="https://www.instagram.com/_aripianco/" target="_blank" ><img height="25" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" ></a> 
@@ -19,7 +19,7 @@
 </div>
 
 
-#### > Linguagens e tecnologias
+####  ``Linguagens e tecnologias:`` 
  <div >  
    <img height="35" width="35"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />   
   
@@ -50,18 +50,12 @@
 
 
 
-  <div >
-   
-  Adépta a projetos de software<br>
-  Transformar ideias em soluções funcionais<br>
-  Com foco em qualidade, consistência e aprendizado contínuo
-   
+  <div>
+    
+  ``Adépta a projetos de software``<br>
+  ``Transformar ideias em soluções funcionais``<br>
+  ``Com foco em qualidade, consistência e aprendizado contínuo``
   </div>
 
- 
-<div>
 
-### ``Always constancy!`` 🧠
- 
-</div>
 
