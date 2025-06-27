@@ -1,13 +1,12 @@
 
-<div align="center">
 
-  👩‍💻 ``Coding``
-  🎧 ``Vibing``
-  🍃 ``Breathing``
+
+  - 👩‍💻 ``Coding``
+  - 🎧 ``Vibing``
+  - 🍃 ``Breathing``
  
-</div>
 
-<hr>
+
 
 
 
@@ -48,7 +47,7 @@
 
 <br>
 
-
+<hr>
 
   <div>
     
